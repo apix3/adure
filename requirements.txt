@@ -1,0 +1,4 @@
+nextcord
+ro_py
+python-dotenv
+os
